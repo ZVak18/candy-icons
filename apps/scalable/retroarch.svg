@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="127.95888"
-   height="127.99022"
-   viewBox="0 0 33.855785 33.86408"
+   height="70"
+   viewBox="0 0 33.855785 18.520834"
    version="1.1"
    id="svg864"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -175,10 +175,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-71.0801,-120.75342)">
+     transform="translate(-71.0801,-136.09667)">
     <g
        id="g1017"
-       transform="matrix(0.96306073,0,0,0.96306073,3.8493602,5.0748807)">
+       transform="matrix(0.96306073,0,0,0.96306073,3.8493602,12.746508)">
       <g
          transform="matrix(0.28065151,0,0,0.28305094,62.685939,100.17271)"
          id="g947"
