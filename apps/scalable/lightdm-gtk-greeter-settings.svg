@@ -77,7 +77,8 @@
        x1="31.75"
        y1="85.333336"
        x2="116.41666"
-       y2="212.33333" />
+       y2="212.33333"
+       gradientTransform="translate(-9.4198454,-5.9892763)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1043-7-2"
@@ -151,7 +152,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="237.19297"
-     inkscape:cy="181.63884"
+     inkscape:cy="60.420531"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -194,8 +195,8 @@
          id="rect843"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient1177);stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         y="174.85782"
-         x="148.60187"
+         y="168.86855"
+         x="139.18202"
          height="13.630746"
          width="41.694046"
          id="rect845"
@@ -239,7 +240,7 @@
          inkscape:connector-curvature="0"
          id="path923"
          d="m -37.041667,143.54167 10e-7,-84.666669 H 201.08333 V 201.75 H 84.666667"
-         style="fill:none;fill-opacity:1;stroke:url(#linearGradient1193);stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient1193);stroke-width:13.54530297;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
