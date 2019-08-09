@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="127.95888"
-   height="70"
-   viewBox="0 0 33.855785 18.520834"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866665 33.866668"
    version="1.1"
    id="svg864"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -147,7 +147,7 @@
      inkscape:cy="61.963828"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -175,10 +175,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-71.0801,-136.09667)">
+     transform="translate(-71.0801,-120.75083)">
     <g
        id="g1017"
-       transform="matrix(0.96306073,0,0,0.96306073,3.8493602,12.746508)">
+       transform="matrix(0.97064389,0,0,0.97064389,3.1921335,4.0294062)">
       <g
          transform="matrix(0.28065151,0,0,0.28305094,62.685939,100.17271)"
          id="g947"
@@ -193,7 +193,7 @@
            inkscape:connector-curvature="0" />
         <path
            style="fill:none;stroke:url(#linearGradient1150);stroke-width:6.11021328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 147.07395,138.6428 -18.4294,-0.29831 2.17336,9.16593 h -17.4814 l 12.37872,14.07961 -14.22816,0.11803 -13.108609,-13.95866 v 0"
+           d="m 147.07395,138.6428 -18.4294,-0.29831 8.90164,12.52382 H 113.26471 L 127.8336,165.3137 H 113.26471 L 98.695822,150.86831 v 0"
            id="path879-0"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccc" />
@@ -245,7 +245,7 @@
              inkscape:connector-curvature="0" />
           <path
              style="fill:none;stroke:url(#linearGradient1150-4);stroke-width:1.72215545;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="m 70.135853,135.66374 -5.172239,-0.0844 0.609957,2.59442 H 60.66739 l 3.474106,3.98525 -3.993154,0.0334 -3.678951,-3.95101 v 0"
+             d="m 70.135853,135.66374 -5.172239,-0.0844 1.956798,3.52651 -6.814634,0 4.08878,4.08878 h -4.08878 l -4.088781,-4.08878 v 0"
              id="path879-0-8"
              inkscape:connector-curvature="0"
              sodipodi:nodetypes="cccccccc" />
